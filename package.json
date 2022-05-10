@@ -1,0 +1,22 @@
+{
+  "name": "zoo-backend",
+  "version": "1.0.0",
+  "description": "Zoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elrom58/zooBackend.git"
+  },
+  "keywords": [
+    "zoo"
+  ],
+  "author": "fmr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elrom58/zooBackend/issues"
+  },
+  "homepage": "https://github.com/Elrom58/zooBackend#readme"
+}
